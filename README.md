@@ -1,16 +1,16 @@
-# us_market
+# App Us_Market
 
-A new Flutter project.
+Ứng dụng mua hàng US đối với người dùng
 
-## Getting Started
+1. Sử dụng Provider để quản lí state
+2. Sử dụng firestore để lưu trữ dữ liệu
+3. Màn hình tối thiểu để sử dụng: height - 541, Width - 325
+4. Link apk: https://drive.google.com/file/d/1sLfxh3Uvv8eBQa3w-7otU_RT_Xe1LVT2/view?usp=sharing
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Các màn hình có trong ứng dụng
+![Login](assets/img/login.png)
+![SignUp](assets/img/register.png)
+![HomePage](assets/img/home_page.png)
+![Drawer](assets/img/drawer.png)
+![Cart](assets/img/cart.png)
+![Order](assets/img/order.png)
