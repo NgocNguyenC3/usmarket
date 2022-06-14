@@ -9,21 +9,21 @@
 
 Các màn hình có trong ứng dụng
 <div>
-<img src="assets/img/login.png" width="350" height="800">
+<img src="assets/img/login.png" width="350" height="700">
   </div>
   <div>
-<img src="assets/img/register.png" width="350" height="800">
+<img src="assets/img/register.png" width="350" height="700">
   </div>
   <div>
-<img src="assets/img/home_page.png" width="350" height="800">
+<img src="assets/img/home_page.png" width="350" height="700">
   </div>
   <div>
-<img src="assets/img/drawer.png" width="350" height="800">
+<img src="assets/img/drawer.png" width="350" height="700">
   </div>
   <div>
-<img src="assets/img/cart.png" width="350" height="800">
+<img src="assets/img/cart.png" width="350" height="700">
   </div>
   <div>
-<img src="assets/img/order.png" width="350" height="800">
+<img src="assets/img/order.png" width="350" height="700">
   </div>
 
