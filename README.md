@@ -8,9 +8,22 @@
 4. Link apk: https://drive.google.com/file/d/1sLfxh3Uvv8eBQa3w-7otU_RT_Xe1LVT2/view?usp=sharing
 
 Các màn hình có trong ứng dụng
-![Login](assets/img/login.png)
-![SignUp](assets/img/register.png)
-![HomePage](assets/img/home_page.png)
-![Drawer](assets/img/drawer.png)
-![Cart](assets/img/cart.png)
-![Order](assets/img/order.png)
+<div>
+<img src="assets/img/login.png" width="350" height="800">
+  </div>
+  <div>
+<img src="assets/img/register.png" width="350" height="800">
+  </div>
+  <div>
+<img src="assets/img/home_page.png" width="350" height="800">
+  </div>
+  <div>
+<img src="assets/img/drawer.png" width="350" height="800">
+  </div>
+  <div>
+<img src="assets/img/cart.png" width="350" height="800">
+  </div>
+  <div>
+<img src="assets/img/order.png" width="350" height="800">
+  </div>
+
